@@ -25,8 +25,7 @@ An intelligent file organization system that uses machine learning to automatica
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-file-organizer.git
-cd ai-file-organizer
+[git clone https://github.com/yourusername/ai-file-organizer.git](https://github.com/SrinivasPaiM/AI-file-sorter-V2)
 ```
 
 2. Install dependencies:
@@ -37,16 +36,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-from advanced_sort import ai_based_sort
-
-# Basic usage
-ai_based_sort("path/to/your/directory")
-
-# With progress callback
-def progress_callback(message):
-    print(message)
-
-ai_based_sort("path/to/your/directory", progress_callback=progress_callback)
+run the main_interface.py file
 ```
 
 ## Configuration
@@ -110,7 +100,8 @@ your_directory/
 
 ## Screenshots
 
-[Optional: Add screenshots of the organized files and progress output]
+![Screenshot 2025-04-29 003059](https://github.com/user-attachments/assets/7573a31f-03d5-41d0-a3a8-82d3b02c3dc9)
+
 
 ## Contributing
 
